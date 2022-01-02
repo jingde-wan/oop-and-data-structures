@@ -1,6 +1,6 @@
 # OOP and Data Structures
 
-CS 300: Programming II
+COMP SCI 300: Programming II
 
 Topics include: 
 

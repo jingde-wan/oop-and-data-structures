@@ -1,4 +1,4 @@
-# OOP and Data Structures
+# Programming and Data Structures
 
 COMP SCI 300: Programming II
 
